@@ -14,6 +14,6 @@
 ---
 ### ✍️ Quote--------------------------------|--------------------😂 Just_For_Fun
 
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Me" style="width: 500px; height: 250px;"> ---|--- <img src="https://randommeme-five.vercel.app/" alt="You" style="width: 500px; height: 250px;">
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Me" style="width: 400px; height: 200px;"> ---|--- <img src="https://randommeme-five.vercel.app/" alt="You" style="width: 500px; height: 250px;">
 
 [![](https://visitcount.itsvg.in/api?id=bhargavinjarapu&icon=7&color=12)](https://visitcount.itsvg.in)
