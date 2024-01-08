@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavInjarapu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-### ✍️ Quote----------------|---------------😂 Just_For_Fun
+### ✍️ Quote---------------------|--------------------😂 Just_For_Fun
 
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Me" style="width: 400px; height: 200px;"> ---|--- <img src="https://randommeme-five.vercel.app/" alt="You" style="width: 400px; height: 200px;">
 
